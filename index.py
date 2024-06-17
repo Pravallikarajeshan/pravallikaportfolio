@@ -11,12 +11,12 @@ load_css("styles.css")
 load_css('components.css')
 
 # Load the image from file
-profile_image = Image.open(r"images\WhatsApp Image 2024-06-17 at 19.41.29_e44ff362.jpg")
+profile_image = Image.open(r"WhatsApp Image 2024-06-17 at 19.41.29_e44ff362.jpg")
 project_images = [
-    Image.open(r"images\WhatsApp Image 2024-06-17 at 19.43.02_84c87f06.jpg"),
-    Image.open(r"images\WhatsApp Image 2024-06-17 at 19.42.36_1f474e6e.jpg"),
-    Image.open(r"images\WhatsApp Image 2024-06-17 at 19.42.22_23814bfd.jpg"),
-    Image.open(r"images\WhatsApp Image 2024-06-17 at 19.43.41_6dbcaeb1.jpg"),
+    Image.open(r"WhatsApp Image 2024-06-17 at 19.43.02_84c87f06.jpg"),
+    Image.open(r"WhatsApp Image 2024-06-17 at 19.42.36_1f474e6e.jpg"),
+    Image.open(r"WhatsApp Image 2024-06-17 at 19.42.22_23814bfd.jpg"),
+    Image.open(r"WhatsApp Image 2024-06-17 at 19.43.41_6dbcaeb1.jpg"),
 ]
 
 
@@ -243,7 +243,7 @@ DEFAULT_PAGE = "About Me"
 # Initialize session state variables
 if 'menu_selection' not in st.session_state:
     st.session_state.menu_selection = DEFAULT_PAGE
-sidebar_image = "images\imresizer-1718617666502.jpg" # Replace with the actual path to your image file
+sidebar_image = "imresizer-1718617666502.jpg" # Replace with the actual path to your image file
 st.sidebar.image(sidebar_image, caption='Pravallika K.R', width=100, use_column_width=False)
 # Sidebar menu with items spaced vertically
 st.sidebar.title("Menu")
