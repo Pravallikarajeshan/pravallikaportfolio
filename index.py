@@ -31,8 +31,9 @@ contacts can contribute to your next venture. Whether you're here to explore pot
 about my skills, or simply gain inspiration, I hope my portfolio leaves you inspired and eager to connect.
 
 An enthusiastic learner with a strong technical acumen in Python, Machine Learning, Neural Networks, and Data Visualization using Power BI. My expertise extends to Natural Language Processing and web development with Streamlit, where I create intuitive and interactive applications. Proficient in SQL and NoSQL databases, I leverage data management skills to derive actionable insights. In addition to technical prowess, I prioritize holistic development, nurturing exceptional leadership, presentation, effective communication, and teamwork skills. These attributes have been refined through active involvement in extracurricular activities, fostering a well-rounded approach to problem-solving and collaboration. Passionate about leveraging technology to innovate and drive impactful solutions, I am committed to continuous learning and professional growth in the ever-evolving field of data science and analytics.
-[Check Out: Resume]()
+[Check Out: Resume](https://drive.google.com/file/d/1ssvkO40yALz5Rn3PpYpiuxei8eNBrPYs/view?usp=sharing)
 """
+
 
 education_content = """
 ### Education
