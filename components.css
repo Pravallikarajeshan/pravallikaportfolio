@@ -1,0 +1,17 @@
+/* components.css */
+
+/* Image styles */
+.stImage {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(181, 230, 3, 0.1);
+}
+
+/* Markdown styles */
+.stMarkdown {
+    line-height: 1.6;
+}
+
+/* Column styles */
+.stColumn {
+    margin-bottom: 20px;
+}
